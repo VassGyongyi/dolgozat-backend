@@ -1,0 +1,57 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "dolgozat",
+    "dateExported": "2024-04-17T17:21:05.590Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "5ac75cc6-8bc6-4af0-9c98-efd0bec07eee",
+            "colId": "39da29f7-6ae8-42f9-969f-636c1d045755",
+            "containerId": "",
+            "name": "get",
+            "url": "http://127.0.0.1:8000/api/kategorias/1",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2024-04-17T17:10:55.825Z",
+            "modified": "2024-04-17T17:16:56.883Z",
+            "headers": []
+        },
+        {
+            "_id": "d149d6a7-5317-44f0-b271-654e89cd8363",
+            "colId": "39da29f7-6ae8-42f9-969f-636c1d045755",
+            "containerId": "",
+            "name": "get-kategoria1",
+            "url": "http://127.0.0.1:8000/api/kategorias/1",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2024-04-17T17:17:34.686Z",
+            "modified": "2024-04-17T17:17:48.849Z",
+            "headers": []
+        },
+        {
+            "_id": "9d556ff4-8050-4cbe-9f28-54b68bad6f3c",
+            "colId": "39da29f7-6ae8-42f9-969f-636c1d045755",
+            "containerId": "",
+            "name": "get-teszt",
+            "url": "http://127.0.0.1:8000/api/teszts",
+            "method": "GET",
+            "sortNum": 30000,
+            "created": "2024-04-17T17:18:32.571Z",
+            "modified": "2024-04-17T17:18:46.677Z",
+            "headers": []
+        },
+        {
+            "_id": "b3c707c7-06e6-4a20-8ab7-d8f67b554c4d",
+            "colId": "39da29f7-6ae8-42f9-969f-636c1d045755",
+            "containerId": "",
+            "name": "get-teszt1",
+            "url": "http://127.0.0.1:8000/api/teszts/1",
+            "method": "GET",
+            "sortNum": 40000,
+            "created": "2024-04-17T17:19:12.609Z",
+            "modified": "2024-04-17T17:19:27.875Z",
+            "headers": []
+        }
+    ]
+}
